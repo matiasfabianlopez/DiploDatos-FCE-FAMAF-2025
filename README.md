@@ -11,3 +11,18 @@ Económicas (FCE) y la Facultad de Matemática, Astronomía, Física y Computaci
 
 El trabajo incluye el desarrollo del análisis en un notebook de Google Colab
 y el informe final en formato PDF.
+
+## Contenido del trabajo
+
+1. **Clasificación**  
+   Notebook principal con el desarrollo del modelo de clasificación.  
+   Archivo: `Grupo12_Checkpoint_3_Clasificacion.ipynb`
+
+2. **Notebook complementario**  
+   Análisis exploratorio y pruebas adicionales.  
+   Archivo: `Grupo12_limpieza
+   .ipynb`
+
+4. **Informe final**  
+   Documento en PDF con la descripción metodológica y los resultados.  
+   Archivo: `Informe_Final.pdf`
