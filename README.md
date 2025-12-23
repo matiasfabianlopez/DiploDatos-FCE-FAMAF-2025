@@ -9,19 +9,26 @@ en Economía y Negocios**, dictada conjuntamente por la Facultad de Ciencias
 Económicas (FCE) y la Facultad de Matemática, Astronomía, Física y Computación
 (FaMAF) de la Universidad Nacional de Córdoba durante el año 2025.
 
-El trabajo incluye el desarrollo del análisis en un notebook de Google Colab
-y el informe final en formato PDF.
+El trabajo se desarrolla a partir de la **base de datos pública de Olist (e-commerce brasileño)** e incluye
+el análisis, la ingeniería de variables y la aplicación de modelos de clasificación.
+
+El repositorio contiene notebooks desarrollados en Google Colab y el informe final en formato PDF.
 
 ## Contenido del trabajo
 
-1. **Clasificación**  
-   Notebook principal con el desarrollo del modelo de clasificación.  
-   Archivo: `olist-classification.ipynb`
+### Clasificación
+Notebook principal con el desarrollo del modelo de clasificación.  
+Archivo: `olist-classification.ipynb`
 
-2. **Notebook complementario**  
-   Análisis exploratorio y pruebas adicionales.  
-   Archivo: `olist-clening-feature-engineering.ipynb`
+### Limpieza e ingeniería de variables
+Notebook con el procesamiento de datos, limpieza y generación de variables.  
+Archivo: `olist-cleaning-feature-engineering.ipynb`
 
-4. **Informe final**  
-   Documento en PDF con la descripción metodológica y los resultados.  
-   Archivo: `olist-report.pdf`
+### Informe final
+Documento en PDF con la descripción metodológica y los resultados.  
+Archivo: `olist-report.pdf`
+
+## Tecnologías y herramientas
+- Python
+- Pandas, NumPy, Scikit-learn
+- Google Colab
