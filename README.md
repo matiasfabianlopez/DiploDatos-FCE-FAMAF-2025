@@ -3,7 +3,7 @@ Trabajo final realizado en el marco de la Diplomatura en Ciencia de Datos (FCE�
 
 ## Descripción
 
-Este repositorio contiene el trabajo final realizado en el marco de la
+Este repositorio contiene el trabajo integrador realizado en el marco de la
 **Diplomatura en Ciencia de Datos, Inteligencia Artificial y sus Aplicaciones
 en Economía y Negocios**, dictada conjuntamente por la Facultad de Ciencias
 Económicas (FCE) y la Facultad de Matemática, Astronomía, Física y Computación
@@ -16,13 +16,12 @@ y el informe final en formato PDF.
 
 1. **Clasificación**  
    Notebook principal con el desarrollo del modelo de clasificación.  
-   Archivo: `Grupo12_Checkpoint_3_Clasificacion.ipynb`
+   Archivo: `olist-classification.ipynb`
 
 2. **Notebook complementario**  
    Análisis exploratorio y pruebas adicionales.  
-   Archivo: `Grupo12_limpieza
-   .ipynb`
+   Archivo: `olist-clening-feature-engineering.ipynb`
 
 4. **Informe final**  
    Documento en PDF con la descripción metodológica y los resultados.  
-   Archivo: `Informe_Final.pdf`
+   Archivo: `olist-report.pdf`
